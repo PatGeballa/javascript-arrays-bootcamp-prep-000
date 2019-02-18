@@ -18,5 +18,5 @@ function addElementToBeginningOfArray(array,element) {
     function destructivelyRemoveElementFromEndOfArray(array) {
       return array.pop(),array}
       function removeElementFromEndOfArray(array) {
-        array.slice(2)}
+        array.slice(3)}
         
