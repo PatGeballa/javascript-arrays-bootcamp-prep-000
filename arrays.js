@@ -18,4 +18,4 @@ function addElementToBeginningOfArray(array,element) {
     function destructivelyRemoveElementFromEndOfArray(array) {
       return array.pop(),array}
       function removeElementFromEndOfArray(array) {
-        array.slice(3)}
+        array.slice("foo")}
